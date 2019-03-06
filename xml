@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scaleType="centerCrop"
-        tools:srcCompat="@mipmap/sandy" />
+        android:src="@mipmap/sandy" />
 
     <TextView
         android:id="@+id/textView"
